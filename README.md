@@ -65,8 +65,6 @@ Steps
 
 Clone the repository
 
-git clone https://github.com/your-username/online-book-store.git
-
 
 Navigate to the project directory
 
